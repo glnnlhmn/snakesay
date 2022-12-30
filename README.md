@@ -20,8 +20,27 @@ I will attempt to create and tag a release in this project at the end of each vi
 | [Playing on the Same Team as the Import System](https://realpython.com/lessons/same-team-as-import-system/)     | Benefits of Pip to install            | None     |
 | [Delving Into a Brief History of Python Packaging](https://realpython.com/lessons/history-of-python-packaging/) | history Lesson                        | None     |
 | [Writing Your First pyproject.toml](https://realpython.com/lessons/your-first-pyproject-toml/)                  | Create blank pyproject.toml           | [v0.4.0] |
+| [Introducing the pyproject.toml Spec](https://realpython.com/lessons/pyproject-toml-spec/)                      | Add pep index to README.md            | [v0.5.0] |
 
 I hope you find this useful and if you have any questions please feel free to ask. All credit for the information goes to Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).
+
+## 3. Referenced PEPs
+| PEP                                          | Description                                                      |
+|----------------------------------------------|------------------------------------------------------------------|
+| [PEP-427](https://peps.python.org/pep-0427/) | The Wheel Binary Package Format 1.0                              |
+| [PEP-440](https://peps.python.org/pep-0440/) | Version Identification and Dependency Specification              |
+| [PEP-508](https://peps.python.org/pep-0508/) | Dependency specification for Python Software Packages            |
+| [PEP-517](https://peps.python.org/pep-0517/) | A build-system independent format for source trees               |
+| [PEP-518](https://peps.python.org/pep-0518/) | Specifying Minimum Build System Requirements for Python Projects |
+| [PEP-621](https://peps.python.org/pep-0621/) | Storing project metadata in pyproject.toml                       |
+| [PEP-660](https://peps.python.org/pep-0660/) | Editable installs for pyproject.toml based builds (wheel based)  |
+
+## 4. Referenced Links
+| Link                                                         | Description                 |
+|--------------------------------------------------------------|-----------------------------|
+| [Python Packaging User Guide](https://packaging.python.org/) | Python Packaging User Guide |
+| [Python Packaging Authority](https://www.pypa.io/en/latest/) | Python Packaging Authority  |
+| [Setup Tools](https://setuptools.pypa.io/en/latest/)         | Setup Tools Documentation   |
 
 #### Notes
 I added README.md to the project to make it easier to find the videos.  I also added a .gitignore file to ignore files not needed in the [GitHub](https://github.com/glnnlhmn/snakesay) Repo.
