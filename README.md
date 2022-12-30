@@ -26,6 +26,7 @@ I will attempt to create and tag a release in this project at the end of each vi
 | [Installing Your Project](https://realpython.com/lessons/installing-your-project/)                              | python -m pip install -e .            | None     |
 | [Using the Project Anywhere](https://realpython.com/lessons/using-the-project-anywhere/)                        | pDemo various ways to use snakesay    | None     |
 | [Adding a Command Script](https://realpython.com/lessons/adding-a-command-script/)                              | Add project.scripts to pyproject.toml | [v0.8.0] |
+| [Using the Name-Main Idiom](https://realpython.com/lessons/using-the-name-main-idiom/)                          | Removing the second snake             | [v0.9.0] |
 
 I hope you find this useful and if you have any questions please feel free to ask. All credit for the information goes to Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).
 
