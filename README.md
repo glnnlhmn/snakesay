@@ -21,6 +21,7 @@ I will attempt to create and tag a release in this project at the end of each vi
 | [Delving Into a Brief History of Python Packaging](https://realpython.com/lessons/history-of-python-packaging/) | history Lesson                        | None     |
 | [Writing Your First pyproject.toml](https://realpython.com/lessons/your-first-pyproject-toml/)                  | Create blank pyproject.toml           | [v0.4.0] |
 | [Introducing the pyproject.toml Spec](https://realpython.com/lessons/pyproject-toml-spec/)                      | Add pep index to README.md            | [v0.5.0] |
+| [Including a Build System](https://realpython.com/lessons/including-a-build-system/)                            | Add build system to pyproject.toml    | [v0.6.0] |
 
 I hope you find this useful and if you have any questions please feel free to ask. All credit for the information goes to Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).
 
