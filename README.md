@@ -9,24 +9,27 @@ I will attempt to create and tag a release in this project at the end of each vi
 
 ## 2. Index
 
-| Video                                                                                                           | Description                           | Tag      |
-|-----------------------------------------------------------------------------------------------------------------|---------------------------------------|----------|
-| [Overview](https://realpython.com/lessons/packaging-with-pyproject-toml-overview/)                              | Introduction to the code conversation | None     |
-| [Getting Started With Developing](https://realpython.com/lessons/getting-started-with-developing/)              | Setting up the project                | [v0.1.0] |
-| [Initially Structuring Your Project](https://realpython.com/lessons/initially-structuring-your-project/)        | Create initial project structure      | [v0.2.0] |
-| [Identifying Issues With the Current Structure](https://realpython.com/lessons/adding-dependencies/)            | Identify issue with python path       | None     |
-| [Changing How You Import](https://realpython.com/lessons/changing-how-you-import/)                              | Local/absolute import                 | [v0.3.0] |
-| [Recognizing How the Structure Still Isn't Ideal](https://realpython.com/lessons/structure-still-isnt-ideal/)   | Identify new issue with python path   | None     |
-| [Playing on the Same Team as the Import System](https://realpython.com/lessons/same-team-as-import-system/)     | Benefits of Pip to install            | None     |
-| [Delving Into a Brief History of Python Packaging](https://realpython.com/lessons/history-of-python-packaging/) | history Lesson                        | None     |
-| [Writing Your First pyproject.toml](https://realpython.com/lessons/your-first-pyproject-toml/)                  | Create blank pyproject.toml           | [v0.4.0] |
-| [Introducing the pyproject.toml Spec](https://realpython.com/lessons/pyproject-toml-spec/)                      | Add pep index to README.md            | [v0.5.0] |
-| [Including a Build System](https://realpython.com/lessons/including-a-build-system/)                            | Add build system to pyproject.toml    | [v0.6.0] |
-| [Adding Final Configurations to Your Project](https://realpython.com/lessons/final-project-configurations/)     | Add project to pyproject.toml         | [v0.7.0] |
-| [Installing Your Project](https://realpython.com/lessons/installing-your-project/)                              | python -m pip install -e .            | None     |
-| [Using the Project Anywhere](https://realpython.com/lessons/using-the-project-anywhere/)                        | pDemo various ways to use snakesay    | None     |
-| [Adding a Command Script](https://realpython.com/lessons/adding-a-command-script/)                              | Add project.scripts to pyproject.toml | [v0.8.0] |
-| [Using the Name-Main Idiom](https://realpython.com/lessons/using-the-name-main-idiom/)                          | Removing the second snake             | [v0.9.0] |
+| Video                                                                                                                             | Description                             | Tag      |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|----------|
+| [Overview](https://realpython.com/lessons/packaging-with-pyproject-toml-overview/)                                                | Introduction to the code conversation   | None     |
+| [Getting Started With Developing](https://realpython.com/lessons/getting-started-with-developing/)                                | Setting up the project                  | [v0.1.0] |
+| [Initially Structuring Your Project](https://realpython.com/lessons/initially-structuring-your-project/)                          | Create initial project structure        | [v0.2.0] |
+| [Identifying Issues With the Current Structure](https://realpython.com/lessons/adding-dependencies/)                              | Identify issue with python path         | None     |
+| [Changing How You Import](https://realpython.com/lessons/changing-how-you-import/)                                                | Local/absolute import                   | [v0.3.0] |
+| [Recognizing How the Structure Still Isn't Ideal](https://realpython.com/lessons/structure-still-isnt-ideal/)                     | Identify new issue with python path     | None     |
+| [Playing on the Same Team as the Import System](https://realpython.com/lessons/same-team-as-import-system/)                       | Benefits of Pip to install              | None     |
+| [Delving Into a Brief History of Python Packaging](https://realpython.com/lessons/history-of-python-packaging/)                   | history Lesson                          | None     |
+| [Writing Your First pyproject.toml](https://realpython.com/lessons/your-first-pyproject-toml/)                                    | Create blank pyproject.toml             | [v0.4.0] |
+| [Introducing the pyproject.toml Spec](https://realpython.com/lessons/pyproject-toml-spec/)                                        | Add pep index to README.md              | [v0.5.0] |
+| [Including a Build System](https://realpython.com/lessons/including-a-build-system/)                                              | Add build system to pyproject.toml      | [v0.6.0] |
+| [Adding Final Configurations to Your Project](https://realpython.com/lessons/final-project-configurations/)                       | Add project to pyproject.toml           | [v0.7.0] |
+| [Installing Your Project](https://realpython.com/lessons/installing-your-project/)                                                | python -m pip install -e .              | None     |
+| [Using the Project Anywhere](https://realpython.com/lessons/using-the-project-anywhere/)                                          | pDemo various ways to use snakesay      | None     |
+| [Adding a Command Script](https://realpython.com/lessons/adding-a-command-script/)                                                | Add project.scripts to pyproject.toml   | [v0.8.0] |
+| [Using the Name-Main Idiom](https://realpython.com/lessons/using-the-name-main-idiom/)                                            | Removing the second snake               | [v0.9.0] |
+| [Understanding the Adoption of pyproject.toml](https://realpython.com/lessons/adoption-of-pyproject-toml/)                        | Discussion                              | None     |
+| [Extra: Understanding What an Egg Is](https://realpython.com/lessons/what-an-egg-is/)                                             | Discussion of egg, wheels, and metadata | None     |
+| [Everyday Project Packaging With pyproject.toml (Summary)](https://realpython.com/lessons/packaging-with-pyproject-toml-summary/) | Review                                  | [v1.0.0] |
 
 I hope you find this useful and if you have any questions please feel free to ask. All credit for the information goes to Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).
 
