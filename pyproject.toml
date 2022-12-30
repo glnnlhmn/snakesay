@@ -2,3 +2,6 @@
 requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
+[project]
+name = "snakesay"
+version = "1.0.0"
