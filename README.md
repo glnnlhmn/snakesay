@@ -23,6 +23,9 @@ I will attempt to create and tag a release in this project at the end of each vi
 | [Introducing the pyproject.toml Spec](https://realpython.com/lessons/pyproject-toml-spec/)                      | Add pep index to README.md            | [v0.5.0] |
 | [Including a Build System](https://realpython.com/lessons/including-a-build-system/)                            | Add build system to pyproject.toml    | [v0.6.0] |
 | [Adding Final Configurations to Your Project](https://realpython.com/lessons/final-project-configurations/)     | Add project to pyproject.toml         | [v0.7.0] |
+| [Installing Your Project](https://realpython.com/lessons/installing-your-project/)                              | python -m pip install -e .            | None     |
+| [Using the Project Anywhere](https://realpython.com/lessons/using-the-project-anywhere/)                        | pDemo various ways to use snakesay    | None     |
+| [Adding a Command Script](https://realpython.com/lessons/adding-a-command-script/)                              | Add project.scripts to pyproject.toml | [v0.8.0] |
 
 I hope you find this useful and if you have any questions please feel free to ask. All credit for the information goes to Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).
 
