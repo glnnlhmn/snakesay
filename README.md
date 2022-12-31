@@ -1,7 +1,7 @@
 # Getting Started With Developing
 #### Everyday Project Packaging With pyproject.toml
 
-This is the code conversation between Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).  ~~The first 3 recordings are available for free the remained does require a paid subscription.~~  They have realeasd the [enitre video](https://www.youtube.com/watch?v=v6tALyc4C10) for free on youtube!
+This is the code conversation between Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).  ~~The first 3 recordings are available for free the remained does require a paid subscription.~~  They have realeasd the [enitre video](https://www.youtube.com/watch?v=v6tALyc4C10) for free on youtube!  Alexandar Jelenic was kind enough to have made an [index for the video](https://github.com/glnnlhmn/snakesay/blob/main/VIDEO_INDEX.md).
 
 
 ## 1. Introduction
