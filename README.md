@@ -3,6 +3,9 @@
 
 This is the code conversation between Ian Currie and Geir Arne Hjelle from [Real Python](https://realpython.com).  ~~The first 3 recordings are available for free the remained does require a paid subscription.~~  They have realeasd the [enitre video](https://www.youtube.com/watch?v=v6tALyc4C10) for free on youtube!  Alexandar Jelenic was kind enough to have made an [index for the video](https://github.com/glnnlhmn/snakesay/blob/main/VIDEO_INDEX.md).
 
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/55802043/210136859-01e70049-13f6-4d6c-8069-6f7c681a0fd7.png">
+
+
 
 ## 1. Introduction
 I will attempt to create and tag a release in this project at the end of each video. I recommend you follow their videos and only peek at my code if you get stuck.
